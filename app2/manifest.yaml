@@ -56,7 +56,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-  - host: "app2.daws86s.fun"
+  - host: "app2.dawsteja.store"
     http:
       paths:
       - pathType: Prefix
